@@ -1,0 +1,5 @@
+train: D:/YOLO Project/Task-4/images/train
+val: D:/YOLO Project/Task-4/images/val
+
+nc: 10
+names: ['Door', 'Curtain', 'Tube light', 'PhotoFrame', 'TV', 'Phone', 'Table', 'Sofa', 'Glasses', 'Laptop']
