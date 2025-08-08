@@ -33,21 +33,28 @@ This project demonstrates a **custom object detection model** built with **YOLOv
 - Visual performance metrics below are generated from `runs/train/`:
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](<img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/4dc7ef06-3af8-41cc-bc7b-de058785d0aa" />
+)
 
 ### Normalized Confusion Matrix
-![Normalized Confusion Matrix](confusion_matrix_normalized.png)
+![Normalized Confusion Matrix](<img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/6a7a375e-133c-4cee-a6fa-e6d8cdbe4045" />
+)
 
 ### Precision, Recall, and F1-score Curves
-![P Curve](P_curve.png)  
-![R Curve](R_curve.png)  
-![F1 Curve](F1_curve.png)  
+![P Curve](<img width="2250" height="1500" alt="P_curve" src="https://github.com/user-attachments/assets/a017a12c-a8c9-4144-b0fe-662dfddde375" />
+)  
+![R Curve](<img width="2250" height="1500" alt="R_curve" src="https://github.com/user-attachments/assets/a7f2a215-7595-4a73-b05f-90e5416d818b" />
+)  
+![F1 Curve](<img width="2250" height="1500" alt="F1_curve" src="https://github.com/user-attachments/assets/141e7bba-1905-45a7-8ed5-f27c2f9c3d80" />
+)  
 
 ### PR Curve
-![PR Curve](PR_curve.png)
+![PR Curve](<img width="2250" height="1500" alt="PR_curve" src="https://github.com/user-attachments/assets/090dbc79-5cfa-42e2-827b-3eca1649e185" />
+)
 
 ### Dataset Labels
-![Labels](labels.jpg)
+![labels](https://github.com/user-attachments/assets/56c04431-2ab8-45eb-ba9e-5b59a3c6d225)
+
 
 ---
 
