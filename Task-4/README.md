@@ -33,7 +33,8 @@ This project demonstrates a **custom object detection model** built with **YOLOv
 - Visual performance metrics below are generated from `runs/train/`:
 
 ### Confusion Matrix
-![Confusion Matrix](<img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/4dc7ef06-3af8-41cc-bc7b-de058785d0aa" />
+![Confusion Matrix](<img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/bd0652ab-ec6c-445f-847a-47debc961687" />
+
 )
 
 ### Normalized Confusion Matrix
