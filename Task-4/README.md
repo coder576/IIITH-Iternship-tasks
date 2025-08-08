@@ -38,7 +38,8 @@ This project demonstrates a **custom object detection model** built with **YOLOv
 )
 
 ### Normalized Confusion Matrix
-![Normalized Confusion Matrix](<img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/6a7a375e-133c-4cee-a6fa-e6d8cdbe4045" />
+![Normalized Confusion Matrix](<img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/49765161-e70c-4f37-bc79-ae0f84ed354e" />
+
 )
 
 ### Precision, Recall, and F1-score Curves
@@ -48,7 +49,8 @@ This project demonstrates a **custom object detection model** built with **YOLOv
 ![R Curve](<img width="2250" height="1500" alt="R_curve" src="https://github.com/user-attachments/assets/bc08f23e-e939-4213-8044-5a396edf3b93" />
 
 )  
-![F1 Curve](<img width="2250" height="1500" alt="F1_curve" src="https://github.com/user-attachments/assets/141e7bba-1905-45a7-8ed5-f27c2f9c3d80" />
+![F1 Curve](<img width="2250" height="1500" alt="F1_curve" src="https://github.com/user-attachments/assets/7118916a-2817-44d4-b608-825b7e7d670d" />
+
 )  
 
 ### PR Curve
