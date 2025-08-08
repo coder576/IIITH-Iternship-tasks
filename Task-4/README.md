@@ -41,9 +41,11 @@ This project demonstrates a **custom object detection model** built with **YOLOv
 )
 
 ### Precision, Recall, and F1-score Curves
-![P Curve](<img width="2250" height="1500" alt="P_curve" src="https://github.com/user-attachments/assets/a017a12c-a8c9-4144-b0fe-662dfddde375" />
+![P Curve](<img width="2250" height="1500" alt="P_curve" src="https://github.com/user-attachments/assets/3723e229-ee97-41f3-af83-6712945e54c2" />
+
 )  
-![R Curve](<img width="2250" height="1500" alt="R_curve" src="https://github.com/user-attachments/assets/a7f2a215-7595-4a73-b05f-90e5416d818b" />
+![R Curve](<img width="2250" height="1500" alt="R_curve" src="https://github.com/user-attachments/assets/bc08f23e-e939-4213-8044-5a396edf3b93" />
+
 )  
 ![F1 Curve](<img width="2250" height="1500" alt="F1_curve" src="https://github.com/user-attachments/assets/141e7bba-1905-45a7-8ed5-f27c2f9c3d80" />
 )  
