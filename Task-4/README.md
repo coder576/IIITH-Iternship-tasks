@@ -54,7 +54,8 @@ This project demonstrates a **custom object detection model** built with **YOLOv
 )  
 
 ### PR Curve
-![PR Curve](<img width="2250" height="1500" alt="PR_curve" src="https://github.com/user-attachments/assets/090dbc79-5cfa-42e2-827b-3eca1649e185" />
+![PR Curve](<img width="2250" height="1500" alt="PR_curve" src="https://github.com/user-attachments/assets/f5a96183-f186-401e-b16d-5a8d1c439f9e" />
+
 )
 
 ### Dataset Labels
